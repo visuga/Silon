@@ -1,0 +1,18 @@
+[1204/182040.259:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232210.092:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232236.012:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232415.477:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232419.092:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232554.229:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232608.685:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232645.903:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232656.912:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232700.280:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232704.263:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232707.035:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232710.137:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1209/232715.574:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1210/005647.763:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0127/103106.699:ERROR:process_info.cc(359)] UncheckedAllocate
+[0128/160004.719:ERROR:file_io.cc(89)] ReadExactly: expected 560, observed 0
+[0128/160004.745:ERROR:crash_report_database_win.cc(445)] failed to read records
